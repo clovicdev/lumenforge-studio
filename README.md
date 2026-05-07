@@ -79,7 +79,7 @@ You can use this website as a starter template for your own creative agency, por
 If this project is on GitHub, clone it:
 
 ```bash
-git clone https://github.com/your-username/lumenforge-studio.git
+git clone https://github.com/clovicdev/lumenforge-studio.git
 cd lumenforge-studio
 ```
 
